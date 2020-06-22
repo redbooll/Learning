@@ -1,0 +1,2 @@
+1st step , created Models folder . 
+2nd step , started to define DB. 
